@@ -16,10 +16,10 @@ Challenge Chapter 5 Binar Academy
 
 # API
 
-1. Create Car (POST) = http://localhost:8000/api/v1/Cars
-2. Read All Cars (GET) = http://localhost:8000/api/v1/Cars
-3. Read One Car (GET) = http://localhost:8000/api/v1/Cars/:id
-4. Update Car (POST) = http://localhost:8000/api/v1/Cars/:id
-5. Delele Car (GET) = http://localhost:8000//api/v1/deleteCars/:id
-6. Filter Car (GET) = http://localhost:8000/api/v1/FilterCars/:id
-7. Search Car (GET) = http://localhost:8000/api/v1/SearchCars/:search
+1. Create Car (POST) = http://localhost:3000/api/v1/Cars
+2. Read All Cars (GET) = http://localhost:3000/api/v1/Cars
+3. Read One Car (GET) = http://localhost:3000/api/v1/Cars/:id
+4. Update Car (POST) = http://localhost:3000/api/v1/Cars/:id
+5. Delele Car (GET) = http://localhost:3000//api/v1/deleteCars/:id
+6. Filter Car (GET) = http://localhost:3000/api/v1/FilterCars/:id
+7. Search Car (GET) = http://localhost:3000/api/v1/SearchCars/:search

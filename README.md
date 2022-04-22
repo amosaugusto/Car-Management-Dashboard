@@ -8,11 +8,11 @@ Challenge Chapter 5 Binar Academy
 
 # Client
 
-1. Halaman Index (GET) = http://localhost/
-2. Halaman Create Car (POST) = http://localhost/create-car
-3. Halaman Edit Car (GET) = http://localhost/edit-car/:id
-4. Menampilkan Hasil Filter (GET) = http://localhost/:id
-5. Menampilkan Hasil Search (POST) = http://localhost/search
+1. Halaman Index (GET) = http://localhost:3000/
+2. Halaman Create Car (POST) = http://localhost:3000/create-car
+3. Halaman Edit Car (GET) = http://localhost:3000/edit-car/:id
+4. Menampilkan Hasil Filter (GET) = http://localhost:3000/:id
+5. Menampilkan Hasil Search (POST) = http://localhost:3000/search
 
 # API
 

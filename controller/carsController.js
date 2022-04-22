@@ -6,6 +6,8 @@ const sequelize = require("sequelize");
 const {Cars} = require("../models");
 const {Type_Cars} = require("../models");
 
+module.exports = class {}
+
 // READ
 const homepageView = (req, res) => {
     axios
